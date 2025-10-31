@@ -13,7 +13,6 @@ export default function App() {
           <Feather name="globe" size={20} color="#000" />
           <Text style={styles.googleText}>Continuar con Google</Text>
         </TouchableOpacity>
-
         <TouchableOpacity style={[styles.buttonBase, styles.loginButton]}>
           <Text style={styles.loginText}>Iniciar sesión</Text>
         </TouchableOpacity>
